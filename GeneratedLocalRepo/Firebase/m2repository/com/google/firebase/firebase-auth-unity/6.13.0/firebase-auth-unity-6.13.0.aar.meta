@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: bbc159b903d45b54ea3a30f7d8202167
+labels:
+- gpsr
+- gvh
+- gvh_version-6.13.0
+- gvhp_exportpath-Firebase/m2repository/com/google/firebase/firebase-auth-unity/6.13.0/firebase-auth-unity-6.13.0.srcaar
+- gvhp_exportpath-Firebase\m2repository\com\google\firebase\firebase-auth-unity\6.13.0\firebase-auth-unity-6.13.0.srcaar
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
+  platformData:
+  - first:
+      Android: Android
+    second:
+      enabled: 0
+      settings: {}
+  - first:
+      Any: 
+    second:
+      enabled: 0
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
