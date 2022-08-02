@@ -1,5 +1,9 @@
 # Classic
 
+# Трейлер обновления
+
+https://user-images.githubusercontent.com/57679050/182445810-8a2deeab-6c96-4bef-b91d-290e96497e7a.mp4
+
 Не дай падающим картам упасть в самое пекло
 
 # Скриншоты
