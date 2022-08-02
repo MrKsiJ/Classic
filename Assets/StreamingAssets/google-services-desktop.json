@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381422131984",
+    "firebase_url": "https://classic-a0487.firebaseio.com",
+    "project_id": "classic-a0487",
+    "storage_bucket": "classic-a0487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381422131984:android:b3a8f62b840332671ee395",
+        "android_client_info": {
+          "package_name": "com.KJPGames.Classic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381422131984-r9mks9cradn3e5m0ef72hu1kp76rmohm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGqQxcu235JTvrTrOYbO5axOIip8lVngo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381422131984-r9mks9cradn3e5m0ef72hu1kp76rmohm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
