@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f0a85a168475e394eb32377f8cdd5a36
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NovelGothicShadow [Rus by me] Shadow
+  fontNames:
+  - NovelGothicShadow [Rus by me] Shadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
