@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 543854915
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 770a0c0342a01ddd71680e753e5fb766
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Sounds/SoundTracks/DOCTOR VOX - Death.ogg
+- Assets/Resources/Sounds/SoundTracks/Tokyo Machine - Spooky.ogg
+- Assets/Resources/Sounds/SoundTracks/Eric Rodriguez - Illuminati.ogg
+- Assets/Resources/Sounds/SoundTracks/ZEDION - Radiance.ogg
+- Assets/Resources/Sounds/SoundTracks/Yusuf Alev - Yoros.ogg
+- Assets/Resources/Sounds/SoundTracks/Eric Rodriguez - Sunlight.ogg
+- Assets/Resources/Sounds/SoundTracks/MOUNTSWIFT - Amethyst.ogg
+- Assets/Resources/Sounds/SoundTracks/Creepa  Subsets - Downpour.ogg
+- Assets/Resources/Sounds/SoundTracks/FiASKO - Nu Demon.ogg
+- Assets/Resources/Sounds/SoundTracks/NEFFEX - Blow Up.ogg
+- Assets/Resources/Sounds/SoundTracks/MAY - Terminus.ogg
+Dependencies: []
