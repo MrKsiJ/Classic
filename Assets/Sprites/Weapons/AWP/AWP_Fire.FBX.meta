@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: df9a8af09b88c3448b9ad661273cb9a2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001_EL_1
+    100004: Box001_EL_18
+    100006: Box001_EL_24
+    100008: Box001_EL_25
+    100010: Box001_EL_28
+    100012: Box001_EL_30
+    100014: Box001_EL_31
+    100016: Box001_EL_33
+    100018: Camera001
+    100020: CATRigHub002
+    100022: CATRigLArm1
+    100024: CATRigLArm21
+    100026: CATRigLArm22
+    100028: CATRigLArmCollarbone
+    100030: CATRigLArmDigit11
+    100032: CATRigLArmDigit12
+    100034: CATRigLArmDigit13
+    100036: CATRigLArmDigit21
+    100038: CATRigLArmDigit22
+    100040: CATRigLArmDigit23
+    100042: CATRigLArmDigit31
+    100044: CATRigLArmDigit32
+    100046: CATRigLArmDigit33
+    100048: CATRigLArmDigit41
+    100050: CATRigLArmDigit42
+    100052: CATRigLArmDigit43
+    100054: CATRigLArmDigit51
+    100056: CATRigLArmDigit52
+    100058: CATRigLArmDigit53
+    100060: CATRigLArmPalm
+    100062: CATRigRArm1
+    100064: CATRigRArm21
+    100066: CATRigRArm22
+    100068: CATRigRArmCollarbone
+    100070: CATRigRArmDigit11
+    100072: CATRigRArmDigit12
+    100074: CATRigRArmDigit13
+    100076: CATRigRArmDigit21
+    100078: CATRigRArmDigit22
+    100080: CATRigRArmDigit23
+    100082: CATRigRArmDigit31
+    100084: CATRigRArmDigit32
+    100086: CATRigRArmDigit33
+    100088: CATRigRArmDigit41
+    100090: CATRigRArmDigit42
+    100092: CATRigRArmDigit43
+    100094: CATRigRArmDigit51
+    100096: CATRigRArmDigit52
+    100098: CATRigRArmDigit53
+    100100: CATRigRArmPalm
+    100102: Character001
+    100104: Character002
+    100106: Tops
+    400000: //RootNode
+    400002: Box001_EL_1
+    400004: Box001_EL_18
+    400006: Box001_EL_24
+    400008: Box001_EL_25
+    400010: Box001_EL_28
+    400012: Box001_EL_30
+    400014: Box001_EL_31
+    400016: Box001_EL_33
+    400018: Camera001
+    400020: CATRigHub002
+    400022: CATRigLArm1
+    400024: CATRigLArm21
+    400026: CATRigLArm22
+    400028: CATRigLArmCollarbone
+    400030: CATRigLArmDigit11
+    400032: CATRigLArmDigit12
+    400034: CATRigLArmDigit13
+    400036: CATRigLArmDigit21
+    400038: CATRigLArmDigit22
+    400040: CATRigLArmDigit23
+    400042: CATRigLArmDigit31
+    400044: CATRigLArmDigit32
+    400046: CATRigLArmDigit33
+    400048: CATRigLArmDigit41
+    400050: CATRigLArmDigit42
+    400052: CATRigLArmDigit43
+    400054: CATRigLArmDigit51
+    400056: CATRigLArmDigit52
+    400058: CATRigLArmDigit53
+    400060: CATRigLArmPalm
+    400062: CATRigRArm1
+    400064: CATRigRArm21
+    400066: CATRigRArm22
+    400068: CATRigRArmCollarbone
+    400070: CATRigRArmDigit11
+    400072: CATRigRArmDigit12
+    400074: CATRigRArmDigit13
+    400076: CATRigRArmDigit21
+    400078: CATRigRArmDigit22
+    400080: CATRigRArmDigit23
+    400082: CATRigRArmDigit31
+    400084: CATRigRArmDigit32
+    400086: CATRigRArmDigit33
+    400088: CATRigRArmDigit41
+    400090: CATRigRArmDigit42
+    400092: CATRigRArmDigit43
+    400094: CATRigRArmDigit51
+    400096: CATRigRArmDigit52
+    400098: CATRigRArmDigit53
+    400100: CATRigRArmPalm
+    400102: Character001
+    400104: Character002
+    400106: Tops
+    2100000: Glove
+    2100002: 09 - Default
+    2100004: 'Material #130'
+    2300000: Box001_EL_1
+    2300002: Box001_EL_18
+    2300004: Box001_EL_24
+    2300006: Box001_EL_25
+    2300008: Box001_EL_28
+    2300010: Box001_EL_30
+    2300012: Box001_EL_31
+    2300014: Box001_EL_33
+    3300000: Box001_EL_1
+    3300002: Box001_EL_18
+    3300004: Box001_EL_24
+    3300006: Box001_EL_25
+    3300008: Box001_EL_28
+    3300010: Box001_EL_30
+    3300012: Box001_EL_31
+    3300014: Box001_EL_33
+    4300000: Tops
+    4300002: Box001_EL_18
+    4300004: Box001_EL_33
+    4300006: Box001_EL_25
+    4300008: Box001_EL_24
+    4300010: Box001_EL_28
+    4300012: Box001_EL_30
+    4300014: Box001_EL_31
+    4300016: Box001_EL_1
+    7400000: Fire
+    9500000: //RootNode
+    13700000: Tops
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 90e6475f857e38941be134d129ef7ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glove
+    second: {fileID: 2100000, guid: ce8b61dd75297bc42adc2a6d15211713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #130'
+    second: {fileID: 2100000, guid: 825d48fec5d6be8489d9d2cd609d693a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fire
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
